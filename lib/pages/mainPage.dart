@@ -6,6 +6,7 @@ import 'dice.dart';
 import 'magicEight.dart';
 import 'xylophone.dart';
 import 'quizzler.dart';
+import 'bmi_calculator.dart';
 
 class mainPage extends StatelessWidget {
   ListTile buildTile({BuildContext context, Text title, Text subtitle, Icon icon, Widget page}){
@@ -38,6 +39,7 @@ class mainPage extends StatelessWidget {
             buildTile(context: context, title: Text('Magic 8'), subtitle: Text('Magic 8 App for questions'), icon: Icon(Icons.verified_user, color: Colors.yellow), page: magicEightPage()),
             buildTile(context: context, title: Text('Xylophone App'), subtitle: Text('App for playing music'), icon: Icon(Icons.verified_user, color: Colors.purple), page: xylophonePage()),
             buildTile(context: context, title: Text('Quizzler App'), subtitle: Text('App full of quiz'),  icon: Icon(Icons.verified_user, color: Colors.pink), page: Quizzler()),
+            buildTile(context: context, title: Text('BMI App'), subtitle: Text('BMI Calculator'),  icon: Icon(Icons.verified_user, color: Colors.brown), page: BmiCalculator()),
 
 
           ],
