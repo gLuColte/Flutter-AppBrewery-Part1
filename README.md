@@ -8,7 +8,7 @@ This repository contains Section 1 - 13 tutorials from London Appbrewery.
 The applications are assembled into a single application for easier view and access.
 
 #### Main Page
-![Main](https://user-images.githubusercontent.com/67504821/106419846-7df10780-64ad-11eb-9533-dcc48379370d.png = 250)
+![Main](https://user-images.githubusercontent.com/67504821/106419846-7df10780-64ad-11eb-9533-dcc48379370d.png =250x)
 
 ### Introduction Page
 ![IamJnode](https://user-images.githubusercontent.com/67504821/106419850-7fbacb00-64ad-11eb-9a2f-7581431b7b4e.png)
